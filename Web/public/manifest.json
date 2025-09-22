@@ -1,0 +1,17 @@
+{
+    "name": "Krea AI",
+    "short_name": "Krea AI",
+    "description": "Krea AI PWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0067b8",
+    "theme_color": "#0067b8",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
